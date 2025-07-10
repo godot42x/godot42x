@@ -1,5 +1,5 @@
 
-<h2> Hi!~ I'm godot42.</h2>
+<h2> Hi!~ I'm godot42x.</h2>
 
 <div align="center">
  <div>
@@ -9,7 +9,7 @@
 
  ### Thank you for your attention, it's nice to meet you here!!!
 
-<!--- 👉Click to check my <a href="https://godotc.github.io/">Blog</a> -->
+<!--- 👉Click to check my <a href="https://godot42x.github.io/">Blog</a> -->
 
 
 <!--- 💬 Ask me about cpp, solidity...-->
@@ -23,11 +23,11 @@
 
 
  <div>
-   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=godotc&layout=compact"></img>
+   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=godot42x&layout=compact"></img>
  </div>
 
  <div>
-    <img   src="https://github-readme-stats.vercel.app/api?username=godotc&show_icons=true&theme=tokyonight"></img>
+    <img   src="https://github-readme-stats.vercel.app/api?username=godot42x&show_icons=true&theme=tokyonight"></img>
  </div>
 
 
